@@ -11,6 +11,6 @@ Atividade da faculdade desenvolvida em linguagem C, com o objetivo de criar um s
 
 - Exibir um montante de compras de um cliente específico.
 
-- Prever a situação que a quantidade de clientes a ser cadastrados supere a previsão inicial. Neste caso, quando o espaço de memória destinado a receber dados dos clientes estiver cheia, deve-se ampliar esse espaço – sempre em blocos de 10.
+- Prever a situação que a quantidade de clientes a ser cadastrados supere a previsão inicial.
 
 Nesse sistema foi utilizado a função Calloc que permite armazenar um determinado numero de espaços para armazenamento de dados na memória e a função Realloc que realoca espaços atribuidos em calloc garantindo sua flexibilização
