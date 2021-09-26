@@ -1,5 +1,5 @@
 # Registro_Clientes📝
-Atividade da faculdade desenvolvida em linguagem C, com o objetivo de criar um sistema de registro de clientes utilizando conceitos de ponteiros e alocação de memória que contenha as seguintes funcionalidades:
+Atividade da faculdade desenvolvida em linguagem C, com o objetivo de criar um sistema de registro de clientes utilizando conceitos de ponteiros e alocação dinâmica de memória que contenha as seguintes funcionalidades:
 
 - Incluir um novo cliente
 
