@@ -1,7 +1,7 @@
 # Registro_Clientes📝
 Atividade da faculdade desenvolvida em linguagem C, com o objetivo de criar um sistema de registro de clientes utilizando conceitos de ponteiros e alocação dinâmica de memória que contenha as seguintes funcionalidades:
 
-- Incluir um novo cliente (Com um limite de 10 cadastros)
+- Incluir um novo cliente (com uma previsão de 10 cadastros)
 
 - Remover cliente - atualizar o montante de compras do cliente realizadas no mês corrente
 
